@@ -10,7 +10,7 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 
 <div align="left">
 
-#### Skills
+### Skills
 
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -52,7 +52,7 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 
 <div align="center">
   
-#### Terima Kasih Telah Melihat Github Saya
+### Terima Kasih Telah Melihat Github Saya
 
 ![Animasi Bunga](img/bunga.gif)
 
