@@ -10,7 +10,7 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 
 <div align="left">
 
-##### Skills
+#### Skills
 
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -42,15 +42,15 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 
-### My Github Stats
+#### My Github Stats
 
 <div align="center">
-
-![HaqiKuy Stats](https://github-readme-stats.vercel.app/api?username=HaqiKuy470&show_icons=true&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaqiKuy470&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
-__Terima Kasih Telah Melihat Github Saya__
+<div align="center">
+  
+#### Terima Kasih Telah Melihat Github Saya
 
 ![Animasi Bunga](img/bunga.gif)
 
