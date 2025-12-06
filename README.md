@@ -42,10 +42,12 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 
-#### My Github Stats
+### My Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaqiKuy470&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaqiKuy470&theme=radical&hide_border=true" alt="HaqiKuy Streak" />
+
 </div>
 
 <div align="center">
