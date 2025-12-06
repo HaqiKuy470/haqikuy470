@@ -42,11 +42,17 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 
-##### My Github Stats
+### My Github Stats
 
-![Haqikuy GitHub stats](https://github-readme-stats.vercel.app/api?username=haqikuy470&show_icons=true&theme=radical)
+<div align="center">
+
+![HaqiKuy Stats](https://github-readme-stats.vercel.app/api?username=HaqiKuy470&show_icons=true&theme=radical)
+
+</div>
+
 __Terima Kasih Telah Melihat Github Saya__
 
 ![Animasi Bunga](img/bunga.gif)
 
+</div>
 </div>
