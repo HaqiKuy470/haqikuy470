@@ -44,17 +44,17 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 
 ### My Github Stats
 
-<div align="center">
+<div align="left">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaqiKuy470&theme=radical" width="600" />
+  <br/>
 
-<img src="https://haqikuy470.vercel.app/api/top-langs/?username=HaqiKuy470&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaqiKuy470&theme=radical&hide_border=true" alt="HaqiKuy Streak" />
-
+### Top Language
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaqiKuy470&theme=radical" width="400" />
+  
 </div>
 
-
+</div>
 <div align="center">
   
 ### Terima Kasih Telah Melihat Github Saya
