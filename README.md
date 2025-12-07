@@ -103,31 +103,27 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaqiKuy470&theme=tokyonight&utcOffset=7" width="100%" />
       </td>
     </tr>
-
   </table>
 </div>
 
 <br/>
 
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Heard+My+Music" alt="Typing SVG" />
 </a>
+
 <br>
 
-<br/>
-<div align="center">
-  <a href="https://open.spotify.com/playlist/2mO4tCwFLSwDXi5TfdB9m8?si=abb16d696cd64b27&pt=d5a0845d8666813652bdacc23b195781" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-My_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="45" alt="Spotify Playlist">
-  </a>
-</div>
-<br/>
+<a href="https://open.spotify.com/playlist/2mO4tCwFLSwDXi5TfdB9m8?si=abb16d696cd64b27&pt=d5a0845d8666813652bdacc23b195781" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-My_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="60" alt="Spotify Playlist">
+</a>
 
+<br/>
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;Don't+forget+to+star!" height="45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;Don't+forget+to+star!" alt="Typing SVG" />
 </a>
-<br>
 
 <br/>
 
