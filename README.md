@@ -10,15 +10,15 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=My+Tech+Stack+%26+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=My+Tech+Stack+%26+Skills" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
@@ -37,7 +37,7 @@
 <p>
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" />
-  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black" />
   <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" />
 </p>
 
@@ -56,40 +56,61 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Connect+With+Me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Connect+With+Me" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="50" height="50"/></a>
-  <a href="https://www.tiktok.com/@USERNAME_TIKTOK" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg" alt="TikTok" width="50" height="50"/></a>
-  <a href="https://youtube.com/@USERNAME_YOUTUBE" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg" alt="YouTube" width="50" height="50"/></a>
-  <a href="https://discord.com/users/ID_DISCORD_KAMU" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="50" height="50"/></a>
-  <a href="https://instagram.com/USERNAME_IG" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" width="50" height="50"/></a>
-  <a href="https://x.com/USERNAME_X" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg" alt="X (Twitter)" width="50" height="50"/></a>
-  <a href="https://github.com/USERNAME_GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" alt="GitHub" width="50" height="50"/></a>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="45" height="45"/></a>
+  <a href="https://www.tiktok.com/@USERNAME_TIKTOK" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg" alt="TikTok" width="45" height="45"/></a>
+  <a href="https://youtube.com/@USERNAME_YOUTUBE" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg" alt="YouTube" width="45" height="45"/></a>
+  <a href="https://discord.com/users/ID_DISCORD_KAMU" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="45" height="45"/></a>
+  <a href="https://instagram.com/USERNAME_IG" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" width="45" height="45"/></a>
+  <a href="https://x.com/USERNAME_X" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg" alt="X (Twitter)" width="45" height="45"/></a>
+  <a href="https://github.com/USERNAME_GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" alt="GitHub" width="45" height="45"/></a>
 </p>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=My+Github+Stats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=My+Github+Stats" alt="Typing SVG" />
 </a>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaqiKuy470&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaqiKuy470&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaqiKuy470&theme=tokyonight&hide_border=true&fire=FF0000&ring=FF0000&currStreakNum=FF0000" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaqiKuy470&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaqiKuy470&theme=tokyonight" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaqiKuy470&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+    <tr>
+       <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaqiKuy470&theme=tokyonight" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaqiKuy470&theme=tokyonight&utcOffset=7" width="100%" />
+      </td>
+    </tr>
+
+  </table>
+</div>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;Don't+forget+to+star!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;Don't+forget+to+star!" alt="Typing SVG" />
 </a>
 
 <br/>
