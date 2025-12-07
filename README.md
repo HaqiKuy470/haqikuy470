@@ -46,9 +46,14 @@ __NOW I AM STUDY IN STATE UNIVERSITY OF MALANG__
 
 <div align="center">
 
+<img src="https://haqikuy470.vercel.app/api/top-langs/?username=HaqiKuy470&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaqiKuy470&theme=radical&hide_border=true" alt="HaqiKuy Streak" />
 
 </div>
+
 
 <div align="center">
   
