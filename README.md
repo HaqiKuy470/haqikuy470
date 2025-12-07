@@ -60,13 +60,13 @@
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="45" height="45"/></a>
-  <a href="https://www.tiktok.com/@USERNAME_TIKTOK" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg" alt="TikTok" width="45" height="45"/></a>
-  <a href="https://youtube.com/@USERNAME_YOUTUBE" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg" alt="YouTube" width="45" height="45"/></a>
-  <a href="https://discord.com/users/ID_DISCORD_KAMU" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="45" height="45"/></a>
-  <a href="https://instagram.com/USERNAME_IG" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" width="45" height="45"/></a>
-  <a href="https://x.com/USERNAME_X" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg" alt="X (Twitter)" width="45" height="45"/></a>
-  <a href="https://github.com/USERNAME_GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" alt="GitHub" width="45" height="45"/></a>
+  <a href="https://www.linkedin.com/in/moh-dhiyaulhaq-ulumuddin-98b9022a1/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="45" height="45"/></a>
+  <a href="https://www.tiktok.com/@haqikuy" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg" alt="TikTok" width="45" height="45"/></a>
+  <a href="https://youtube.com/@Dhaqi470" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg" alt="YouTube" width="45" height="45"/></a>
+  <a href="https://discord.com/users/1278516896333041689" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="45" height="45"/></a>
+  <a href="https://instagram.com/haqikuy" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" width="45" height="45"/></a>
+  <a href="https://x.com/haqikuy" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg" alt="X (Twitter)" width="45" height="45"/></a>
+  <a href="https://github.com/haqikuy470" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" alt="GitHub" width="45" height="45"/></a>
 </p>
 
 <br/>
