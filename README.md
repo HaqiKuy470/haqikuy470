@@ -9,6 +9,12 @@
 
 <br/>
 
+## About Me
+
+<br>
+
+![About Me](img/pr.png)
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=My+Tech+Stack+%26+Skills" alt="Typing SVG" />
 </a>
